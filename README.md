@@ -1,3 +1,6 @@
+# Enlighter EPFL Fork #
+As we are unable to provide a dynamic cache repository with a calculated effort, this fork aim to add the generated cache files in the cache folder. As we don't allow the theme customization feature, we should be fine.
+
 # Enlighter - Customizable Syntax Highlighter #
 Contributors: Andi Dittrich, aenondynamics
 Tags: syntax highlighting, javascript, code, coding, sourcecode, mootools, jquery, customizable, visual editor, tinymce, themes, css, html, php, js, xml, c, cpp, c#, ruby, shell, java, python, sql, rust, matlab, json, ini, config, cython, lua, assembly, asm
