@@ -131,6 +131,9 @@ All modern webbrowsers with enabled Javascript and HTML5 capabilities for "data-
 
 ## Upgrade Notice ##
 
+### 4.2 ###
+Everything has been changed - read enlighterjs.org/wp-v4 before upgrading - THIS RELEASE IS NOT BACKWARD COMPATIBLE 
+
 ### 4.1 ###
 Everything has been changed - read enlighterjs.org/wp-v4 before upgrading - THIS RELEASE IS NOT BACKWARD COMPATIBLE 
 
@@ -165,3 +168,6 @@ Added Inline-Syntax-Highlighting as well as some other cool feature - please go 
 ### 1.8 ###
 Added Visual-Editor (TinyMCE) Integration (will avoid auto-whitespace-removing issues)
 
+## Frequently Asked Questions ##
+
+The WordPress plugin [related FAQ page](https://github.com/EnlighterJS/documentation/blob/master/wordpress/FAQ.md) is available [on GitHub](https://github.com/EnlighterJS/documentation/blob/master/wordpress/FAQ.md) within the documentation repository!
