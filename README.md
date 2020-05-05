@@ -1,6 +1,11 @@
 # Enlighter EPFL Fork #
 As we are unable to provide a dynamic cache repository with a calculated effort, this fork aim to add the generated cache files in the cache folder. As we don't allow the theme customization feature, we should be fine.
 
+## How to update
+- Follow [Syncing a fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
+- Better set this local master branch to [the latest commit released](https://github.com/EnlighterJS/Plugin.WordPress/releases)
+- Get and commit a new version of ./cache/enlighterjs.min
+
 # Enlighter - Customizable Syntax Highlighter #
 Contributors: Andi Dittrich, aenondynamics
 Tags: syntax highlighting, javascript, code, coding, sourcecode, mootools, jquery, customizable, visual editor, tinymce, themes, css, html, php, js, xml, c, cpp, c#, ruby, shell, java, python, sql, rust, matlab, json, ini, config, cython, lua, assembly, asm
@@ -75,7 +80,7 @@ It also supports the automatic creation of tab-panes to display code-groups toge
 
 ### Texteditor/Shortcodes (Legacy) ###
 
-Shortcodes are deprecated and should be used in **text editor mode only** - never use them within Gutenberg Editor or Classic Editor! 
+Shortcodes are deprecated and should be used in **text editor mode only** - never use them within Gutenberg Editor or Classic Editor!
 
 * Easy to use Text-Editor mode through the use of Shortcodes and QuickTags
 * Shortcodes within content, comments and widgets
@@ -133,7 +138,7 @@ All modern webbrowsers with enabled Javascript and HTML5 capabilities for "data-
 ## Upgrade Notice ##
 
 ### 4.2 ###
-Everything has been changed - read enlighterjs.org/wp-v4 before upgrading - THIS RELEASE IS NOT BACKWARD COMPATIBLE 
+Everything has been changed - read enlighterjs.org/wp-v4 before upgrading - THIS RELEASE IS NOT BACKWARD COMPATIBLE
 
 ## Frequently Asked Questions ##
 
